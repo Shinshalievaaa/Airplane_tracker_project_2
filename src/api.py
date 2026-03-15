@@ -7,7 +7,7 @@ class API(ABC):
     def get_aeroplanes(self, country: str):
         pass
 
-class APIAdapter(API):
+class AeroplanesAPI(API):
 
     def __init__(self) -> None:
         self.openstreetmap_url = 'https://nominatim.openstreetmap.org/search'
@@ -48,5 +48,6 @@ class APIAdapter(API):
         #Пример ответа от opensky-network можно посмотреть в задании курсовой.
         self.aeroplanes = response.json()
 
-api = APIAdapter()
-api.get_aeroplanes('Canada')
+# api = AeroplanesAPI()
+# api.get_aeroplanes('Canada')
+# print(api.aeroplanes)

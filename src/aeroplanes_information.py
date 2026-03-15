@@ -1,13 +1,13 @@
-class Airplane():
+class Aeroplane:
 
-    ID_airplane : str # уникальный идентификатор борта
-    Callsign : str # позывной рейса
-    Country : str # Страна регистрации
+    ID : str # уникальный идентификатор борта
+    callsign : str # позывной рейса
+    country : str # Страна регистрации
     time_position : int # время последнего обновления позиции
     last_contact : int # время последнего контакта
     longitude : float # долгота(°)
     latitude : float # широта(°)
-    baro_altitude : float # барометрическая высота(м)
+    altitude : float # высота(м)
     on_ground : bool # находится ли самолёт на земле
     velocity : float # горизонтальная скорость(м / с)
     true_track : float # курс(градусы)
@@ -18,5 +18,12 @@ class Airplane():
     spi : bool # специальный сигнал(emergency / priority)
     position_source : int # источник позиции
 
-    def __init__(self):
-        pass
+    def __init__(self, ID, Country, velocity, altitude) -> None:
+        self.ID_airplane = ID
+        self.country = Country
+        self.velocity = velocity
+        self.altitude = altitude
+
+    @staticmethod
+    def cast_to_object_list(aeroplanes: dict) -> list:
+        return aeroplanes['states']
