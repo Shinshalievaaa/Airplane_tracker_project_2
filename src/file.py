@@ -3,6 +3,7 @@ import os
 from abc import ABC, abstractmethod
 
 class Saver(ABC):
+    """Абстрактный класс для сохранения данных, полученных по API"""
 
     @abstractmethod
     def add_aeroplane(self, aeroplanes:list, path: str) -> None:
@@ -19,7 +20,7 @@ class Saver(ABC):
 
 
 class JSONSaver(Saver):
-
+    """Клас для сохранения данных в JSON"""
     def __init__(self, path: str) -> None:
         self.path = path
 
@@ -30,8 +31,14 @@ class JSONSaver(Saver):
             json_new = {}
             json_new["ID"] = state[0]
             json_new["country"] = state[2]
-            json_new["velocity"] = state[9]
-            json_new["altitude"] = state[7]
+            if state[9] is None:
+                json_new["velocity"] = 0
+            else:
+                json_new["velocity"] = state[9]
+            if state[7] is None:
+                json_new["altitude"] = 0
+            else:
+                json_new["altitude"] = state[7]
             json_list.append(json_new)
 
         # Запись в JSON файл

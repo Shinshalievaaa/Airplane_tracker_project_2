@@ -48,6 +48,3 @@ class AeroplanesAPI(API):
         #Пример ответа от opensky-network можно посмотреть в задании курсовой.
         self.aeroplanes = response.json()
 
-# api = AeroplanesAPI()
-# api.get_aeroplanes('Canada')
-# print(api.aeroplanes)
