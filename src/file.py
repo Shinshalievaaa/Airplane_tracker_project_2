@@ -18,7 +18,6 @@ class Saver(ABC):
         pass
 
 
-
 class JSONSaver(Saver):
     """Клас для сохранения данных в JSON"""
     def __init__(self, path: str) -> None:
@@ -56,6 +55,8 @@ class JSONSaver(Saver):
 
             # Iterate through the data and filter by country
             for item in data:
+                if countries_to_filter == []:
+                    filtered_data.append(item)
                 if item.get('country') in countries_to_filter:
                     filtered_data.append(item)
 
