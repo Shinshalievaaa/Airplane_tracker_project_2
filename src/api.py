@@ -14,7 +14,7 @@ class AeroplanesAPI(API):
         self.opensky_url = 'https://opensky-network.org/api/states/all?'
         self.aeroplanes = None
 
-    def get_aeroplanes(self, country: str) -> None:
+    def get_geo_coordinates(self, country: str) -> dict:
         #Headers с user-agent - обязательный параметр при запросе к nominatim.openstreetmap.
         #Вы можете использовать любое название вместо test-app/1.0, например просто test-app.
         headers_nominatim = {
@@ -42,6 +42,12 @@ class AeroplanesAPI(API):
             'lomin': geo_coordinates[2],
             'lomax': geo_coordinates[3],
         }
+        return params
+
+
+    def get_aeroplanes(self, country: str) -> None:
+
+        params = self.get_geo_coordinates(country)
 
         response = get(url=self.opensky_url, params=params)
 
