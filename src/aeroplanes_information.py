@@ -19,7 +19,7 @@ class Aeroplane:
     position_source : int # источник позиции
 
     def __init__(self, ID, country, velocity, altitude) -> None:
-        self.ID_airplane = ID
+        self.ID = ID
         self.country = country
         if not isinstance(velocity, (float,int)):
             self.velocity = 0
@@ -33,10 +33,10 @@ class Aeroplane:
 
     @classmethod
     def __verify_data(cls, other):
-        if not isinstance(other, (float, Aeroplane)):
-            raise TypeError("Операнд справа должен иметь тип int или Aeroplane")
+        if not isinstance(other, (float, int, Aeroplane)):
+            raise TypeError("Операнд справа должен иметь тип float или int или Aeroplane")
 
-        return other if isinstance(other, float) else other.velocity
+        return other if isinstance(other, (float, int)) else other.velocity
 
 
     def __lt__(self, other) -> None:
@@ -50,7 +50,7 @@ class Aeroplane:
 
 
     def __str__(self):
-        return f'ID: {self.ID}, country: {self.country}, velocity = {self.velocity} , altitude = {self.altitude}'
+        return f'ID: {self.ID}, country: {self.country}, velocity = {self.velocity}, altitude = {self.altitude}'
 
 
     @staticmethod
