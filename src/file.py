@@ -1,25 +1,26 @@
 import json
-import os
 from abc import ABC, abstractmethod
+
 
 class Saver(ABC):
     """Абстрактный класс для сохранения данных, полученных по API"""
 
     @abstractmethod
-    def add_aeroplane(self, aeroplanes:list, path: str) -> None:
+    def add_aeroplane(self, aeroplanes: list) -> None:
         pass
 
     @abstractmethod
-    def get_info(self, **params) -> list[dict]:
+    def get_info(self, countries_to_filter: list) -> list[dict]:
         pass
 
     @abstractmethod
-    def delete_aeroplane(self, ID:str) -> None:
+    def delete_aeroplane(self, ID: list) -> None:
         pass
 
 
 class JSONSaver(Saver):
     """Клас для сохранения данных в JSON"""
+
     def __init__(self, path: str) -> None:
         self.path = path
 
@@ -50,14 +51,14 @@ class JSONSaver(Saver):
 
         try:
             # Read the JSON file
-            with open(self.path, 'r', encoding='utf-8') as file:
+            with open(self.path, "r", encoding="utf-8") as file:
                 data = json.load(file)
 
             # Iterate through the data and filter by country
             for item in data:
                 if countries_to_filter == []:
                     filtered_data.append(item)
-                if item.get('country') in countries_to_filter:
+                if item.get("country") in countries_to_filter:
                     filtered_data.append(item)
 
         except FileNotFoundError:
@@ -69,19 +70,18 @@ class JSONSaver(Saver):
 
         return filtered_data
 
-
     def delete_aeroplane(self, ID_list: list) -> None:
 
         try:
             # Read the JSON file into a list of dictionaries
-            with open(self.path, 'r', encoding='utf-8') as file:
+            with open(self.path, "r", encoding="utf-8") as file:
                 data = json.load(file)
 
             # Filter out entries with IDs that are present in the ID_list
-            updated_data = [item for item in data if item.get('ID') not in ID_list]
+            updated_data = [item for item in data if item.get("ID") not in ID_list]
 
             # Write the updated list of dictionaries back to the JSON file
-            with open(self.path, 'w', encoding='utf-8') as file:
+            with open(self.path, "w", encoding="utf-8") as file:
                 json.dump(updated_data, file, ensure_ascii=False, indent=4)
 
             print(f"Successfully removed entries with IDs {ID_list} from {self.path}.")
@@ -90,6 +90,8 @@ class JSONSaver(Saver):
         except FileNotFoundError:
             print(f"Error: The file {self.path} was not found.")
         except json.JSONDecodeError:
-            print(f"Error: Could not decode JSON from the file {self.path}. Please ensure it's a valid JSON file.")
+            print(
+                f"Error: Could not decode JSON from the file {self.path}. Please ensure it's a valid JSON file."
+            )
         except Exception as e:
             print(f"An unexpected error occurred: {e}")
