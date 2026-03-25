@@ -58,7 +58,7 @@ class JSONSaver(Saver):
             for item in data:
                 if countries_to_filter == []:
                     filtered_data.append(item)
-                if item.get("country") in countries_to_filter:
+                elif item.get("country") in countries_to_filter:
                     filtered_data.append(item)
 
         except FileNotFoundError:
