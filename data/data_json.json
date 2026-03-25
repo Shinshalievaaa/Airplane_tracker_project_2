@@ -1,1256 +1,482 @@
 [
     {
-        "ID": "a35592",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
+        "ID": "4bc8c3",
+        "country": "Turkey",
+        "velocity": 238.9,
+        "altitude": 9144
     },
     {
-        "ID": "abad94",
-        "country": "United States",
-        "velocity": 70.91,
-        "altitude": -76.2
+        "ID": "4bc8d3",
+        "country": "Turkey",
+        "velocity": 231.86,
+        "altitude": 10355.58
     },
     {
-        "ID": "a5823e",
-        "country": "United States",
-        "velocity": 283.67,
-        "altitude": 10066.02
+        "ID": "46b832",
+        "country": "Greece",
+        "velocity": 232.71,
+        "altitude": 10568.94
     },
     {
-        "ID": "a1bfb2",
-        "country": "United States",
-        "velocity": 289.8,
-        "altitude": 10668
+        "ID": "505ce6",
+        "country": "Slovakia",
+        "velocity": 238.52,
+        "altitude": 11277.6
     },
     {
-        "ID": "a16ff1",
-        "country": "United States",
-        "velocity": 275.3,
-        "altitude": 10668
+        "ID": "4bc845",
+        "country": "Turkey",
+        "velocity": 176.13,
+        "altitude": 4259.58
     },
     {
-        "ID": "ab048d",
-        "country": "United States",
-        "velocity": 279.99,
-        "altitude": 11887.2
+        "ID": "4bb565",
+        "country": "Turkey",
+        "velocity": 214.48,
+        "altitude": 6217.92
     },
     {
-        "ID": "a008c5",
-        "country": "United States",
-        "velocity": 297.67,
-        "altitude": 10668
+        "ID": "4bc88e",
+        "country": "Turkey",
+        "velocity": 208.18,
+        "altitude": 8785.86
     },
     {
-        "ID": "a6bfa6",
-        "country": "United States",
-        "velocity": 273.9,
-        "altitude": 10660.38
+        "ID": "738056",
+        "country": "Israel",
+        "velocity": 226.73,
+        "altitude": 11582.4
     },
     {
-        "ID": "ac4749",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
+        "ID": "8003e4",
+        "country": "India",
+        "velocity": 246.86,
+        "altitude": 10972.8
     },
     {
-        "ID": "a9c631",
-        "country": "United States",
-        "velocity": 203.13,
-        "altitude": 3459.48
-    },
-    {
-        "ID": "a97608",
-        "country": "United States",
-        "velocity": 279.26,
-        "altitude": 10668
-    },
-    {
-        "ID": "c1ea45",
-        "country": "Canada",
-        "velocity": 10.8,
-        "altitude": 0
-    },
-    {
-        "ID": "a12758",
-        "country": "United States",
-        "velocity": 276.45,
-        "altitude": 10668
+        "ID": "4bb1c6",
+        "country": "Turkey",
+        "velocity": 232.55,
+        "altitude": 11582.4
     },
     {
         "ID": "7380c2",
         "country": "Israel",
-        "velocity": 289.95,
-        "altitude": 10668
+        "velocity": 266.8,
+        "altitude": 11879.58
     },
     {
-        "ID": "7380c1",
-        "country": "Israel",
-        "velocity": 290.39,
-        "altitude": 10058.4
+        "ID": "50018b",
+        "country": "San Marino",
+        "velocity": 250.6,
+        "altitude": 13106.4
     },
     {
-        "ID": "c07b09",
-        "country": "Canada",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a976a5",
-        "country": "United States",
-        "velocity": 222.17,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "a38e69",
-        "country": "United States",
-        "velocity": 268.8,
-        "altitude": 10668
-    },
-    {
-        "ID": "a8102a",
-        "country": "United States",
-        "velocity": 275.64,
-        "altitude": 10668
-    },
-    {
-        "ID": "780a65",
-        "country": "China",
-        "velocity": 196.32,
-        "altitude": 8991.6
-    },
-    {
-        "ID": "c02655",
-        "country": "Canada",
-        "velocity": 289.79,
-        "altitude": 10668
-    },
-    {
-        "ID": "4bb189",
+        "ID": "4bb28b",
         "country": "Turkey",
-        "velocity": 237.04,
-        "altitude": 11574.78
+        "velocity": 188.82,
+        "altitude": 5913.12
     },
     {
-        "ID": "4bb196",
+        "ID": "4bb26a",
         "country": "Turkey",
-        "velocity": 254.06,
-        "altitude": 11582.4
-    },
-    {
-        "ID": "a46828",
-        "country": "United States",
-        "velocity": 177.1,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "aa9800",
-        "country": "United States",
-        "velocity": 266.75,
-        "altitude": 11269.98
-    },
-    {
-        "ID": "aae6d5",
-        "country": "United States",
-        "velocity": 288.3,
-        "altitude": 12192
-    },
-    {
-        "ID": "ac5c1f",
-        "country": "United States",
-        "velocity": 224.01,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "a38af8",
-        "country": "United States",
-        "velocity": 6.69,
-        "altitude": 0
-    },
-    {
-        "ID": "a38ad5",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "c023c8",
-        "country": "Canada",
-        "velocity": 242.82,
+        "velocity": 237.88,
         "altitude": 10363.2
     },
     {
-        "ID": "781f03",
-        "country": "China",
-        "velocity": 205.18,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "c036b1",
-        "country": "Canada",
-        "velocity": 270.5,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "a02c40",
-        "country": "United States",
-        "velocity": 283.38,
-        "altitude": 10668
-    },
-    {
-        "ID": "addadb",
-        "country": "United States",
-        "velocity": 277.83,
-        "altitude": 10668
-    },
-    {
-        "ID": "a7ac8f",
-        "country": "United States",
-        "velocity": 282.65,
-        "altitude": 10675.62
-    },
-    {
-        "ID": "c035f8",
-        "country": "Canada",
-        "velocity": 288.05,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a1057a",
-        "country": "United States",
-        "velocity": 267.24,
-        "altitude": 10683.24
-    },
-    {
-        "ID": "a74a12",
-        "country": "United States",
-        "velocity": 269.86,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a5d4c3",
-        "country": "United States",
-        "velocity": 1.03,
-        "altitude": 0
-    },
-    {
-        "ID": "a35949",
-        "country": "United States",
-        "velocity": 222.26,
-        "altitude": 5151.12
-    },
-    {
-        "ID": "c010cb",
-        "country": "Canada",
-        "velocity": 274.62,
-        "altitude": 10668
-    },
-    {
-        "ID": "a954ca",
-        "country": "United States",
-        "velocity": 217.92,
-        "altitude": 9753.6
-    },
-    {
-        "ID": "c1e977",
-        "country": "Canada",
-        "velocity": 5.66,
-        "altitude": 0
-    },
-    {
-        "ID": "89900f",
-        "country": "Taiwan",
-        "velocity": 208.09,
-        "altitude": 9243.06
-    },
-    {
-        "ID": "899019",
-        "country": "Taiwan",
-        "velocity": 1.29,
-        "altitude": 0
-    },
-    {
-        "ID": "c1e932",
-        "country": "Canada",
-        "velocity": 6.69,
-        "altitude": 0
-    },
-    {
-        "ID": "c0534e",
-        "country": "Canada",
-        "velocity": 279.02,
-        "altitude": 10668
-    },
-    {
-        "ID": "89901e",
-        "country": "Taiwan",
-        "velocity": 228.13,
-        "altitude": 9448.8
-    },
-    {
-        "ID": "a02681",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "899038",
-        "country": "Taiwan",
-        "velocity": 8.75,
-        "altitude": 0
-    },
-    {
-        "ID": "a6dfaa",
-        "country": "United States",
-        "velocity": 292.38,
-        "altitude": 10675.62
-    },
-    {
-        "ID": "3c70aa",
-        "country": "Germany",
-        "velocity": 267.68,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a0275c",
-        "country": "United States",
-        "velocity": 266.04,
-        "altitude": 10668
-    },
-    {
-        "ID": "89913f",
-        "country": "Taiwan",
-        "velocity": 223.91,
-        "altitude": 10355.58
-    },
-    {
-        "ID": "71c046",
-        "country": "Republic of Korea",
-        "velocity": 270.6,
-        "altitude": 10660.38
-    },
-    {
-        "ID": "c1e8cb",
-        "country": "Canada",
-        "velocity": 5.66,
-        "altitude": 0
-    },
-    {
-        "ID": "a92ddf",
-        "country": "United States",
-        "velocity": 273.86,
-        "altitude": 10035.54
-    },
-    {
-        "ID": "a67f81",
-        "country": "United States",
-        "velocity": 277.92,
-        "altitude": 10668
-    },
-    {
-        "ID": "a360b7",
-        "country": "United States",
-        "velocity": 273.74,
-        "altitude": 10668
-    },
-    {
-        "ID": "a2a3af",
-        "country": "United States",
-        "velocity": 245.53,
-        "altitude": 12184.38
-    },
-    {
-        "ID": "a1314e",
-        "country": "United States",
-        "velocity": 92.64,
-        "altitude": 1242.06
-    },
-    {
-        "ID": "a38439",
-        "country": "United States",
-        "velocity": 80.27,
-        "altitude": 403.86
-    },
-    {
-        "ID": "a2b45b",
-        "country": "United States",
-        "velocity": 284.98,
-        "altitude": 10668
-    },
-    {
-        "ID": "c1e5dd",
-        "country": "Canada",
-        "velocity": 4.63,
-        "altitude": 0
-    },
-    {
-        "ID": "a3711a",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "c1e5f7",
-        "country": "Canada",
-        "velocity": 4.37,
-        "altitude": 0
-    },
-    {
-        "ID": "8990c9",
-        "country": "Taiwan",
-        "velocity": 225.7,
-        "altitude": 10363.2
-    },
-    {
-        "ID": "8990c0",
-        "country": "Taiwan",
-        "velocity": 222.66,
-        "altitude": 10363.2
-    },
-    {
-        "ID": "0d08d1",
-        "country": "Mexico",
-        "velocity": 207.29,
-        "altitude": 10355.58
-    },
-    {
-        "ID": "a526e2",
-        "country": "United States",
-        "velocity": 265.48,
-        "altitude": 10660.38
-    },
-    {
-        "ID": "aa7f27",
-        "country": "United States",
-        "velocity": 273.63,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "aa7f01",
-        "country": "United States",
-        "velocity": 271.26,
-        "altitude": 10675.62
-    },
-    {
-        "ID": "c1e666",
-        "country": "Canada",
-        "velocity": 1.29,
-        "altitude": 0
-    },
-    {
-        "ID": "c1e675",
-        "country": "Canada",
-        "velocity": 1.29,
-        "altitude": 0
-    },
-    {
-        "ID": "a81f7b",
-        "country": "United States",
-        "velocity": 266.45,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "71c226",
-        "country": "Republic of Korea",
-        "velocity": 202.33,
-        "altitude": 9753.6
-    },
-    {
-        "ID": "aba7d9",
-        "country": "United States",
-        "velocity": 281.39,
-        "altitude": 10668
-    },
-    {
-        "ID": "a2fbec",
-        "country": "United States",
-        "velocity": 265.75,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a2b562",
-        "country": "United States",
-        "velocity": 268.1,
-        "altitude": 10660.38
-    },
-    {
-        "ID": "7817b4",
-        "country": "China",
-        "velocity": 228.47,
-        "altitude": 9144
-    },
-    {
-        "ID": "aca22e",
-        "country": "United States",
-        "velocity": 274.76,
-        "altitude": 10668
-    },
-    {
-        "ID": "8991e7",
-        "country": "Taiwan",
-        "velocity": 207.24,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "c063d0",
-        "country": "Canada",
-        "velocity": 152.77,
-        "altitude": 6362.7
-    },
-    {
-        "ID": "a2b4ea",
-        "country": "United States",
-        "velocity": 273.84,
-        "altitude": 10668
-    },
-    {
-        "ID": "71c347",
-        "country": "Republic of Korea",
-        "velocity": 229.23,
-        "altitude": 9144
-    },
-    {
-        "ID": "a8fe5d",
-        "country": "United States",
-        "velocity": 128.69,
-        "altitude": 1005.84
-    },
-    {
-        "ID": "ac5868",
-        "country": "United States",
-        "velocity": 226.31,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "a9873d",
-        "country": "United States",
-        "velocity": 271.31,
-        "altitude": 9448.8
-    },
-    {
-        "ID": "406b05",
-        "country": "United Kingdom",
-        "velocity": 288.8,
-        "altitude": 10668
-    },
-    {
-        "ID": "406b21",
-        "country": "United Kingdom",
-        "velocity": 289.93,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a3a152",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a05eb4",
-        "country": "United States",
-        "velocity": 293.67,
-        "altitude": 10668
-    },
-    {
-        "ID": "a37842",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a8a3ce",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "c04599",
-        "country": "Canada",
-        "velocity": 277.77,
-        "altitude": 11894.82
-    },
-    {
-        "ID": "c030a6",
-        "country": "Canada",
-        "velocity": 280.73,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "789246",
-        "country": "China",
-        "velocity": 292.22,
-        "altitude": 11887.2
-    },
-    {
-        "ID": "71c572",
-        "country": "Republic of Korea",
-        "velocity": 208.78,
-        "altitude": 9319.26
-    },
-    {
-        "ID": "c06860",
-        "country": "Canada",
-        "velocity": 136.33,
-        "altitude": 4892.04
-    },
-    {
-        "ID": "a73220",
-        "country": "United States",
-        "velocity": 271.47,
-        "altitude": 10660.38
-    },
-    {
-        "ID": "aa029c",
-        "country": "United States",
-        "velocity": 118.44,
-        "altitude": 1303.02
-    },
-    {
-        "ID": "a014c9",
-        "country": "United States",
-        "velocity": 272.34,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "a0ad6c",
-        "country": "United States",
-        "velocity": 218.3,
-        "altitude": 6446.52
-    },
-    {
-        "ID": "a8b539",
-        "country": "United States",
-        "velocity": 115.44,
-        "altitude": 6096
-    },
-    {
-        "ID": "78929b",
-        "country": "China",
-        "velocity": 7.46,
-        "altitude": 0
-    },
-    {
-        "ID": "801533",
-        "country": "India",
-        "velocity": 302.17,
-        "altitude": 11887.2
-    },
-    {
-        "ID": "a1774a",
-        "country": "United States",
-        "velocity": 80.47,
-        "altitude": 2689.86
-    },
-    {
-        "ID": "a94b48",
-        "country": "United States",
-        "velocity": 267.54,
-        "altitude": 10668
-    },
-    {
-        "ID": "a1a117",
-        "country": "United States",
-        "velocity": 132.34,
-        "altitude": 2712.72
-    },
-    {
-        "ID": "a70aa1",
-        "country": "United States",
-        "velocity": 232.15,
-        "altitude": 10972.8
-    },
-    {
-        "ID": "c02cfc",
-        "country": "Canada",
-        "velocity": 153.72,
-        "altitude": 6073.14
-    },
-    {
-        "ID": "aba1c9",
-        "country": "United States",
-        "velocity": 294.56,
-        "altitude": 10668
-    },
-    {
-        "ID": "a5cc11",
-        "country": "United States",
-        "velocity": 256.85,
-        "altitude": 10668
-    },
-    {
-        "ID": "782144",
-        "country": "China",
-        "velocity": 245.21,
-        "altitude": 8839.2
-    },
-    {
-        "ID": "769103",
-        "country": "Singapore",
-        "velocity": 218.17,
-        "altitude": 9144
-    },
-    {
-        "ID": "a1a1b6",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "c01ae8",
-        "country": "Canada",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a806d8",
-        "country": "United States",
-        "velocity": 267.95,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "ad1857",
-        "country": "United States",
-        "velocity": 283.48,
-        "altitude": 10668
-    },
-    {
-        "ID": "a43887",
-        "country": "United States",
-        "velocity": 114.93,
-        "altitude": 2186.94
-    },
-    {
-        "ID": "abd6ed",
-        "country": "United States",
-        "velocity": 93.32,
-        "altitude": 1333.5
-    },
-    {
-        "ID": "a7858e",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a2e4c7",
-        "country": "United States",
-        "velocity": 254.61,
-        "altitude": 10066.02
-    },
-    {
-        "ID": "408016",
-        "country": "United Kingdom",
-        "velocity": 235.14,
+        "ID": "4bb282",
+        "country": "Turkey",
+        "velocity": 230.13,
         "altitude": 10370.82
     },
     {
-        "ID": "ace5bc",
-        "country": "United States",
-        "velocity": 268.91,
+        "ID": "4bb20a",
+        "country": "Turkey",
+        "velocity": 124.77,
+        "altitude": 1417.32
+    },
+    {
+        "ID": "4bb155",
+        "country": "Turkey",
+        "velocity": 247.14,
+        "altitude": 9037.32
+    },
+    {
+        "ID": "4bb152",
+        "country": "Turkey",
+        "velocity": 243.92,
+        "altitude": 10668
+    },
+    {
+        "ID": "4bb14d",
+        "country": "Turkey",
+        "velocity": 241.92,
         "altitude": 10058.4
     },
     {
-        "ID": "ad1927",
-        "country": "United States",
-        "velocity": 296.32,
-        "altitude": 10668
-    },
-    {
-        "ID": "a34e01",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "c01ec6",
-        "country": "Canada",
-        "velocity": 279.41,
-        "altitude": 10668
-    },
-    {
-        "ID": "c01f1e",
-        "country": "Canada",
-        "velocity": 272.85,
-        "altitude": 10668
-    },
-    {
-        "ID": "758798",
-        "country": "Philippines",
-        "velocity": 197.3,
-        "altitude": 9151.62
-    },
-    {
-        "ID": "a6329d",
-        "country": "United States",
-        "velocity": 274.44,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "c05030",
-        "country": "Canada",
-        "velocity": 6.43,
-        "altitude": 0
-    },
-    {
-        "ID": "a657f4",
-        "country": "United States",
-        "velocity": 260.97,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "c1e4e1",
-        "country": "Canada",
-        "velocity": 5.66,
-        "altitude": 0
-    },
-    {
-        "ID": "abb8ea",
-        "country": "United States",
-        "velocity": 287.89,
-        "altitude": 10660.38
-    },
-    {
-        "ID": "ac6364",
-        "country": "United States",
-        "velocity": 278.43,
-        "altitude": 10668
-    },
-    {
-        "ID": "c0730e",
-        "country": "Canada",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "abfe45",
-        "country": "United States",
-        "velocity": 213.14,
-        "altitude": 11582.4
-    },
-    {
-        "ID": "aba2b7",
-        "country": "United States",
-        "velocity": 162.52,
-        "altitude": 1325.88
-    },
-    {
-        "ID": "c02fd8",
-        "country": "Canada",
-        "velocity": 286.25,
-        "altitude": 10668
-    },
-    {
-        "ID": "888153",
-        "country": "Viet Nam",
-        "velocity": 245.79,
+        "ID": "4bb162",
+        "country": "Turkey",
+        "velocity": 239.28,
         "altitude": 10972.8
     },
     {
-        "ID": "a6692d",
-        "country": "United States",
-        "velocity": 283.63,
-        "altitude": 10683.24
+        "ID": "68332a",
+        "country": "Kazakhstan",
+        "velocity": 234.14,
+        "altitude": 10668
     },
     {
-        "ID": "c01d7e",
-        "country": "Canada",
-        "velocity": 256.55,
+        "ID": "600850",
+        "country": "Azerbaijan",
+        "velocity": 2466.07,
+        "altitude": 10363.2
+    },
+    {
+        "ID": "4b854d",
+        "country": "Turkey",
+        "velocity": 16.15,
+        "altitude": 868.68
+    },
+    {
+        "ID": "748025",
+        "country": "Lebanon",
+        "velocity": 229.48,
+        "altitude": 10370.82
+    },
+    {
+        "ID": "748027",
+        "country": "Lebanon",
+        "velocity": 233.54,
+        "altitude": 10980.42
+    },
+    {
+        "ID": "4b850d",
+        "country": "Turkey",
+        "velocity": 32.48,
+        "altitude": 2385.06
+    },
+    {
+        "ID": "748017",
+        "country": "Lebanon",
+        "velocity": 232.92,
+        "altitude": 11430
+    },
+    {
+        "ID": "04008b",
+        "country": "Ethiopia",
+        "velocity": 250.93,
+        "altitude": 9753.6
+    },
+    {
+        "ID": "06a2df",
+        "country": "Qatar",
+        "velocity": 239.81,
+        "altitude": 9753.6
+    },
+    {
+        "ID": "4ba9d3",
+        "country": "Turkey",
+        "velocity": 242.43,
         "altitude": 11277.6
     },
     {
-        "ID": "a87078",
-        "country": "United States",
-        "velocity": 201.27,
+        "ID": "0428da",
+        "country": "Equatorial Guinea",
+        "velocity": 212.86,
+        "altitude": 8930.64
+    },
+    {
+        "ID": "4b8dac",
+        "country": "Turkey",
+        "velocity": 59.09,
+        "altitude": 2339.34
+    },
+    {
+        "ID": "4ba902",
+        "country": "Turkey",
+        "velocity": 104.59,
+        "altitude": 1318.26
+    },
+    {
+        "ID": "155c68",
+        "country": "Russian Federation",
+        "velocity": 215.48,
+        "altitude": 2720.34
+    },
+    {
+        "ID": "503d4b",
+        "country": "Lithuania",
+        "velocity": 222.19,
+        "altitude": 10980.42
+    },
+    {
+        "ID": "503d74",
+        "country": "Lithuania",
+        "velocity": 142.44,
+        "altitude": 2164.08
+    },
+    {
+        "ID": "503d6f",
+        "country": "Lithuania",
+        "velocity": 225.9,
+        "altitude": 10370.82
+    },
+    {
+        "ID": "4bb844",
+        "country": "Turkey",
+        "velocity": 225.61,
+        "altitude": 10088.88
+    },
+    {
+        "ID": "4bb850",
+        "country": "Turkey",
+        "velocity": 170.28,
+        "altitude": 5791.2
+    },
+    {
+        "ID": "4bb856",
+        "country": "Turkey",
+        "velocity": 63.69,
+        "altitude": 243.84
+    },
+    {
+        "ID": "4bb854",
+        "country": "Turkey",
+        "velocity": 219.58,
+        "altitude": 8542.02
+    },
+    {
+        "ID": "4bb861",
+        "country": "Turkey",
+        "velocity": 135.93,
+        "altitude": 1501.14
+    },
+    {
+        "ID": "4bb84f",
+        "country": "Turkey",
+        "velocity": 231.58,
         "altitude": 10972.8
     },
     {
-        "ID": "c07435",
-        "country": "Canada",
-        "velocity": 125.73,
-        "altitude": 3406.14
+        "ID": "4bb84b",
+        "country": "Turkey",
+        "velocity": 207.88,
+        "altitude": 8587.74
     },
     {
-        "ID": "c01dcb",
-        "country": "Canada",
-        "velocity": 273.77,
-        "altitude": 11277.6
+        "ID": "4bb87a",
+        "country": "Turkey",
+        "velocity": 227.23,
+        "altitude": 7459.98
     },
     {
-        "ID": "c00abd",
-        "country": "Canada",
-        "velocity": 136.94,
-        "altitude": 3924.3
+        "ID": "4bb869",
+        "country": "Turkey",
+        "velocity": 226,
+        "altitude": 9761.22
     },
     {
-        "ID": "a6ee8e",
-        "country": "United States",
-        "velocity": 268.09,
-        "altitude": 10675.62
+        "ID": "4bb863",
+        "country": "Turkey",
+        "velocity": 174.41,
+        "altitude": 6096
     },
     {
-        "ID": "c01e13",
-        "country": "Canada",
-        "velocity": 276.43,
-        "altitude": 11277.6
+        "ID": "4bb86c",
+        "country": "Turkey",
+        "velocity": 222.26,
+        "altitude": 6979.92
     },
     {
-        "ID": "448465",
-        "country": "Belgium",
-        "velocity": 280.52,
-        "altitude": 11277.6
+        "ID": "46b8b2",
+        "country": "Greece",
+        "velocity": 223.2,
+        "altitude": 11574.78
     },
     {
-        "ID": "a059e3",
-        "country": "United States",
-        "velocity": 273.11,
-        "altitude": 11887.2
-    },
-    {
-        "ID": "c06022",
-        "country": "Canada",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "4d0106",
-        "country": "Luxembourg",
-        "velocity": 282.62,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "c029dd",
-        "country": "Canada",
-        "velocity": 198.23,
-        "altitude": 11590.02
-    },
-    {
-        "ID": "76cce1",
-        "country": "Singapore",
-        "velocity": 301.45,
+        "ID": "06a12b",
+        "country": "Qatar",
+        "velocity": 254.57,
         "altitude": 12496.8
     },
     {
-        "ID": "ac5efa",
-        "country": "United States",
-        "velocity": 100.9,
-        "altitude": 1341.12
-    },
-    {
-        "ID": "c0174d",
-        "country": "Canada",
-        "velocity": 230.44,
+        "ID": "0a00c2",
+        "country": "Algeria",
+        "velocity": 232.76,
         "altitude": 10972.8
     },
     {
-        "ID": "c0171a",
-        "country": "Canada",
-        "velocity": 311.39,
-        "altitude": 10668
+        "ID": "4690fa",
+        "country": "Greece",
+        "velocity": 175.98,
+        "altitude": 3741.42
     },
     {
-        "ID": "ac5f5f",
-        "country": "United States",
-        "velocity": 269.63,
-        "altitude": 11277.6
+        "ID": "4690e9",
+        "country": "Greece",
+        "velocity": 242.24,
+        "altitude": 11285.22
     },
     {
-        "ID": "a564ab",
-        "country": "United States",
-        "velocity": 284.4,
-        "altitude": 10668
+        "ID": "4246b5",
+        "country": "United Kingdom",
+        "velocity": 230,
+        "altitude": 10660.38
     },
     {
-        "ID": "ab704b",
-        "country": "United States",
-        "velocity": 237.08,
-        "altitude": 10058.4
+        "ID": "4baac6",
+        "country": "Turkey",
+        "velocity": 230.62,
+        "altitude": 7269.48
     },
     {
-        "ID": "a0d93e",
-        "country": "United States",
-        "velocity": 160.9,
-        "altitude": 7627.62
+        "ID": "4baac2",
+        "country": "Turkey",
+        "velocity": 231.51,
+        "altitude": 8313.42
     },
     {
-        "ID": "a4460e",
-        "country": "United States",
-        "velocity": 276.86,
-        "altitude": 10668
+        "ID": "4baa86",
+        "country": "Turkey",
+        "velocity": 163.83,
+        "altitude": 5669.28
     },
     {
-        "ID": "c05eb7",
-        "country": "Canada",
-        "velocity": 105.13,
-        "altitude": 1539.24
+        "ID": "4baa92",
+        "country": "Turkey",
+        "velocity": 211.97,
+        "altitude": 6972.3
     },
     {
-        "ID": "c05ee5",
-        "country": "Canada",
-        "velocity": 0,
-        "altitude": 0
+        "ID": "4a1923",
+        "country": "Romania",
+        "velocity": 220.65,
+        "altitude": 10965.18
     },
     {
-        "ID": "c05ee1",
-        "country": "Canada",
-        "velocity": 0.06,
-        "altitude": 0
+        "ID": "4baa5a",
+        "country": "Turkey",
+        "velocity": 233.78,
+        "altitude": 8199.12
     },
     {
-        "ID": "c05ea2",
-        "country": "Canada",
-        "velocity": 254.67,
-        "altitude": 10058.4
+        "ID": "4bbd04",
+        "country": "Turkey",
+        "velocity": 238.14,
+        "altitude": 10972.8
     },
     {
-        "ID": "a9587d",
-        "country": "United States",
-        "velocity": 119.93,
-        "altitude": 891.54
+        "ID": "4bbd15",
+        "country": "Turkey",
+        "velocity": 133.25,
+        "altitude": 1691.64
     },
     {
-        "ID": "ad237c",
-        "country": "United States",
-        "velocity": 234.42,
-        "altitude": 10363.2
+        "ID": "4bbd14",
+        "country": "Turkey",
+        "velocity": 169.84,
+        "altitude": 3436.62
     },
     {
-        "ID": "a4b7d3",
-        "country": "United States",
-        "velocity": 270.72,
-        "altitude": 10058.4
+        "ID": "4bcde9",
+        "country": "Turkey",
+        "velocity": 232.46,
+        "altitude": 10972.8
     },
     {
-        "ID": "ad8fe3",
-        "country": "United States",
-        "velocity": 62.27,
-        "altitude": 1882.14
+        "ID": "4bcded",
+        "country": "Turkey",
+        "velocity": 226.25,
+        "altitude": 9715.5
     },
     {
-        "ID": "c05bd5",
-        "country": "Canada",
-        "velocity": 296.11,
-        "altitude": 10652.76
+        "ID": "4bcdd2",
+        "country": "Turkey",
+        "velocity": 228.92,
+        "altitude": 10774.68
     },
     {
-        "ID": "c0025a",
-        "country": "Canada",
-        "velocity": 121.22,
-        "altitude": 1744.98
+        "ID": "4bce43",
+        "country": "Turkey",
+        "velocity": 225.15,
+        "altitude": 7414.26
     },
     {
-        "ID": "adbaca",
-        "country": "United States",
-        "velocity": 269.15,
-        "altitude": 10683.24
-    },
-    {
-        "ID": "a12ac5",
-        "country": "United States",
-        "velocity": 266.83,
-        "altitude": 9448.8
-    },
-    {
-        "ID": "a695ea",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a50e9f",
-        "country": "United States",
-        "velocity": 50.12,
-        "altitude": 1120.14
-    },
-    {
-        "ID": "a12ae8",
-        "country": "United States",
-        "velocity": 274.79,
-        "altitude": 10668
-    },
-    {
-        "ID": "a48ae7",
-        "country": "United States",
-        "velocity": 276.8,
-        "altitude": 11887.2
-    },
-    {
-        "ID": "a0b169",
-        "country": "United States",
-        "velocity": 179.12,
-        "altitude": 10363.2
-    },
-    {
-        "ID": "ad6b0c",
-        "country": "United States",
-        "velocity": 206.96,
-        "altitude": 10363.2
-    },
-    {
-        "ID": "a35cba",
-        "country": "United States",
-        "velocity": 0,
-        "altitude": 0
-    },
-    {
-        "ID": "a1e963",
-        "country": "United States",
-        "velocity": 285.82,
+        "ID": "70612e",
+        "country": "Kuwait",
+        "velocity": 242.92,
         "altitude": 10675.62
     },
     {
-        "ID": "a44938",
-        "country": "United States",
-        "velocity": 263.37,
-        "altitude": 10668
+        "ID": "4bcda2",
+        "country": "Turkey",
+        "velocity": 233.7,
+        "altitude": 10972.8
     },
     {
-        "ID": "3c458b",
-        "country": "Germany",
-        "velocity": 204.77,
-        "altitude": 4373.88
+        "ID": "4bce0e",
+        "country": "Turkey",
+        "velocity": 202.28,
+        "altitude": 9144
     },
     {
-        "ID": "c04eb6",
-        "country": "Canada",
-        "velocity": 83.75,
-        "altitude": 998.22
+        "ID": "4d0107",
+        "country": "Luxembourg",
+        "velocity": 249.47,
+        "altitude": 9753.6
     },
     {
-        "ID": "acd120",
-        "country": "United States",
-        "velocity": 278.64,
-        "altitude": 10668
+        "ID": "010250",
+        "country": "Egypt",
+        "velocity": 231.07,
+        "altitude": 10370.82
     },
     {
-        "ID": "abc49b",
-        "country": "United States",
-        "velocity": 4.37,
+        "ID": "507c50",
+        "country": "Uzbekistan",
+        "velocity": 245.15,
+        "altitude": 12192
+    },
+    {
+        "ID": "4a0d12",
+        "country": "Romania",
+        "velocity": 225.61,
+        "altitude": 11277.6
+    },
+    {
+        "ID": "717cea",
+        "country": "Saudi Arabia",
+        "velocity": 243.07,
+        "altitude": 10675.62
+    },
+    {
+        "ID": "514005",
+        "country": "Georgia",
+        "velocity": 0,
         "altitude": 0
     },
     {
-        "ID": "c08081",
-        "country": "Canada",
-        "velocity": 270.32,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a2f739",
-        "country": "United States",
-        "velocity": 261.67,
-        "altitude": 7482.84
-    },
-    {
-        "ID": "a5449a",
-        "country": "United States",
-        "velocity": 274.92,
-        "altitude": 10035.54
-    },
-    {
-        "ID": "71be17",
-        "country": "Republic of Korea",
-        "velocity": 167.49,
-        "altitude": 2331.72
-    },
-    {
-        "ID": "71be45",
-        "country": "Republic of Korea",
-        "velocity": 220.87,
-        "altitude": 11582.4
-    },
-    {
-        "ID": "c04ff4",
-        "country": "Canada",
-        "velocity": 263.17,
+        "ID": "3c4593",
+        "country": "Germany",
+        "velocity": 246.28,
         "altitude": 10058.4
     },
     {
-        "ID": "a79386",
-        "country": "United States",
-        "velocity": 204.15,
-        "altitude": 10363.2
+        "ID": "407371",
+        "country": "United Kingdom",
+        "velocity": 12.05,
+        "altitude": 10965.18
     },
     {
-        "ID": "a35b42",
-        "country": "United States",
-        "velocity": 264.44,
+        "ID": "4cac64",
+        "country": "Ireland",
+        "velocity": 248.77,
         "altitude": 11277.6
     },
     {
-        "ID": "a7e310",
+        "ID": "a97cb5",
         "country": "United States",
-        "velocity": 272.29,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "adbe91",
-        "country": "United States",
-        "velocity": 139.25,
-        "altitude": 2110.74
-    },
-    {
-        "ID": "a24dc1",
-        "country": "United States",
-        "velocity": 226.96,
-        "altitude": 10066.02
-    },
-    {
-        "ID": "39d2a3",
-        "country": "France",
-        "velocity": 289.57,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "a12f07",
-        "country": "United States",
-        "velocity": 278.17,
-        "altitude": 10058.4
-    },
-    {
-        "ID": "c0196c",
-        "country": "Canada",
-        "velocity": 198.5,
-        "altitude": 10363.2
-    },
-    {
-        "ID": "a300a9",
-        "country": "United States",
-        "velocity": 258.68,
-        "altitude": 10668
-    },
-    {
-        "ID": "ab1bfb",
-        "country": "United States",
-        "velocity": 256.01,
-        "altitude": 11269.98
-    },
-    {
-        "ID": "a5ec61",
-        "country": "United States",
-        "velocity": 272.45,
-        "altitude": 10668
-    },
-    {
-        "ID": "c03c02",
-        "country": "Canada",
-        "velocity": 279.49,
-        "altitude": 10668
-    },
-    {
-        "ID": "ad1560",
-        "country": "United States",
-        "velocity": 262.51,
-        "altitude": 10668
-    },
-    {
-        "ID": "adac5d",
-        "country": "United States",
-        "velocity": 285.63,
-        "altitude": 11277.6
-    },
-    {
-        "ID": "ad5c30",
-        "country": "United States",
-        "velocity": 272.83,
-        "altitude": 10058.4
+        "velocity": 251.49,
+        "altitude": 9753.6
     }
 ]
